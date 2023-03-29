@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 2: Dado un string, conviértelo a minúsculas utilizando toLowerCase().
 */
 

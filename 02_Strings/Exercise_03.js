@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 3: Dado un string, imprime su longitud utilizando .length
 */
 

@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 8: Dado un string, imprime las letras en posición impar utilizando un loop y console.log().
 */
 

@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 9: Dado un string, cuenta cuántas veces aparece una letra específica utilizando un loop y console.log().
 */
 

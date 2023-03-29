@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 6: Dado un string, imprime su penúltima letra utilizando bracket notation y console.log().
 */
 

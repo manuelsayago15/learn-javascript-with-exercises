@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 7: Dado un string, imprime las letras en posición par utilizando un loop y console.log().
 */
 

@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 1: Dado un string, conviértelo a mayúsculas utilizando toUpperCase().
 */
 

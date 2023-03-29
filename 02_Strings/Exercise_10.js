@@ -5,7 +5,7 @@
 */
 
 /*
-    Basic Functions
+    Strings
     Exercise 10: Dado un string, reemplaza todas las letras 'a' por 'o' utilizando replace() y console.log().
 */
 
