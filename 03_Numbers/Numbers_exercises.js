@@ -5,8 +5,7 @@
 */
 
 /*
-    Template Strings
-    Exercise 10: Create a template string that includes conditional logic using ternary operators.
+    Numbers
 */
 
 // 1. Create a variable with the value of 5 and multiply it by 2. (Crea una variable con el valor de 5 y multiplícala por 2)
