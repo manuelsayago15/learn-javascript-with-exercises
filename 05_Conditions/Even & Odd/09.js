@@ -19,4 +19,4 @@ function multiple (number) {
     }
 }
 
-console.log(multiple(15));
+console.log(multiple(30));

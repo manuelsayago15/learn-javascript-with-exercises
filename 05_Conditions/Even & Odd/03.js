@@ -14,7 +14,8 @@ function evenArray (array) {
     const found = array.filter(element => element % 2 === 0);
     return found;
 
-    /*let evens = [];
+    /*
+    let evens = [];
     for (let i = 0; i < array.length; i++) {
         if (array[i] % 2 === 0) {
             evens.push(array[i]);

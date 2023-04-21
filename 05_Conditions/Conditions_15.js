@@ -26,7 +26,7 @@ function primeNumber (number) {
         return `${number} is prime.`;
     }
 }
-let result = primeNumber(8);
+let result = primeNumber(7);
 console.log(result);
 
 /*

@@ -16,7 +16,7 @@ let multipleOf5 = 0;
 if (number % 3 === 0) {
     console.log("It's multiple of 3.");
     multipleOf3++;
-} 
+}
 
 if (number % 5 === 0) {
     console.log("It's multiple of 5.");
